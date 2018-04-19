@@ -1,2 +1,1 @@
-# Hello-World
-First android git
+# MyApplication
